@@ -17,3 +17,4 @@ For specific, detailed instructions, look at the project instructions in the Uda
 
 This is a project done for the Udacity frontend web development professional track scholarship. This is the modified landing page with added navigation and active section highlighting,
 added clicking functionality on navigation items to scroll to desired section and scroll to top functionality.
+The Skeleton HTML & CSS were provided by Udacity, however, the css file was modified by me to cater to some of the new features mentioned above.
